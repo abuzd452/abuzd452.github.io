@@ -1,0 +1,25 @@
+body {
+    background-color: #becde0;
+    font-size: 10px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.header h1 {
+    
+    float: center;;
+    position: relative;
+        top: 350px;
+       left: 650px;
+       color: aqua;
+        
+        
+    }
+   
+img {
+    float: center;;
+    position: relative;
+        top: 350px;
+       left: 520px;
+}
