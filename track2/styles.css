@@ -2,7 +2,7 @@ body {
     background-color: #b9b990;
     font-size: 70px;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-background-image: src="bandpic.png";
+
 }
 .header img {
     float:left;
@@ -20,13 +20,13 @@ background-image: src="bandpic.png";
        left: 200px;
         text-shadow: 6px 5px red;
         
-    }
-    h2 {
+}
+h2 {
         position: relative;
         top: 0px;
         left: 600px;
         margin: 300px;
-    }
+}
 p {
 position: absolute;
 top: 300px;
@@ -34,9 +34,18 @@ left: 20px;
 text-align: justify;
 font-size: 20px;
 }
-bandpic {
-    float:center;
-    position: relative;
+.band img {
+    float:right;
+   
+    /* right: 0px; */
+    position: absolute;
     max-width: 100%;
     height: auto;
+    width:500px; 
+    height:333px;
+}
+
+.band {
+    background-color: red;
+    margin:30px;
 }
