@@ -10,16 +10,27 @@ font-family: Arial, Helvetica, sans-serif;
     
     float: center;;
     position: relative;
-        top: 350px;
-       left: 650px;
-       color: aqua;
+    top: 200px;
+    left: 160px;
+    color: rgb(71, 121, 121);
         
         
     }
    
-img {
-    float: center;;
-    position: relative;
-        top: 350px;
-       left: 520px;
+.header img {
+    /* float: center; */
+    /* position: relative;
+    top: 350px;
+    left: 450px; */
+
+}
+
+.header{
+    background-image: url("odin.gif");
+    position: absolute;
+    top: 350px;
+    left: 450px;
+    width: 410;
+    height: 300;
+    left: 307;
 }
