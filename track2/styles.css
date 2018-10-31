@@ -63,6 +63,27 @@ img {
   animation-name: w6;
   animation-duration: 10s;
 }
+.w7
+img {
+  width: 668px;
+  height: 670px;
+  position: relative;
+  -webkit-animation-name: w1;
+  -webkit-animation-duration: 20s;
+  animation-name: w1;
+  animation-duration: 40s;
+}
+.w8 
+img {
+  width: 650px;
+  height: 661px;
+  position: relative;
+  -webkit-animation-name: w3;
+  -webkit-animation-duration: 20s;
+  animation-name: w3;
+  animation-duration: 20s;
+}
+
 @keyframes fall {
 	
 	100% {
