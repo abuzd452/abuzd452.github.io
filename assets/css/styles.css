@@ -61,7 +61,8 @@ a {
 	color: white;
 	text-decoration: none;
 	text-transform: uppercase;
-	
+}
+/* 	
 	&::after {
 		content: '';
 		position: absolute;
@@ -83,7 +84,7 @@ a {
 		
 	}
 	
-}
+} */
 h2 {
 left: 0px;
 position: relative;
