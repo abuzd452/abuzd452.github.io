@@ -33,7 +33,6 @@ img {
 }
 .logo {
     height: 165px;
-    background: yellow;
     display: inline-block;
     matgin: 0 30px 30px 0;
     position: relative;
@@ -43,7 +42,7 @@ img {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate (-50$,-50%);
+    transform: translate(-50%,-50%);
 }
 .logo.apple { width: 150px;}
 .logo.nike { width: 321px;}
