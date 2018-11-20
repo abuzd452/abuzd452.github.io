@@ -7,14 +7,14 @@ body {
   left: 0;
 }
 .woman {
-    position: relative;
+    position: absolute;
     top: 0px;
-    left: 0px;
+    left: 270px;
 }
 .lips {
-    position: fixed;
-    top: 0px;
-    left: 0px;
+    position: absolute;
+    top: 577px;
+    left: 740px;
     width: 87px;
     height: auto;
 }
