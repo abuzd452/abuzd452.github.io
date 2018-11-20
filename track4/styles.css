@@ -1,8 +1,13 @@
-body {
-    background-color: #304d7a;
-    font-size: 10px;
-font-family: Arial, Helvetica, sans-serif;}
-
-.bg {
-    
+body,html {
+    height: 100%;
+    margin: 0;
 }
+.bg {
+    width: 1440px;
+    height: 5747px;
+    background-image: url("bg.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
