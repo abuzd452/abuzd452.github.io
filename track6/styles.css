@@ -1,5 +1,20 @@
 body {
-    background-color: #000000;
-  
-
+    background-color: white;
+}
+.images {
+    position: relative;
+  top: 0;
+  left: 0;
+}
+.woman {
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.lips {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 87px;
+    height: auto;
 }
